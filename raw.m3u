@@ -1,0 +1,603 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/9e150eabd01a4b34f33f6962d6241583ee39080f95602d6e86116ced7ba131ea/68747470733a2f2f692e696d6775722e636f6d2f713464334461682e706e67" group-title="Sky",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/2f78c4f25935af6c09c195014ccd97c1d70169b2f3388e59caef915cfa0bb8e0/68747470733a2f2f692e696d6775722e636f6d2f30504952775a532e706e67" group-title="WarnerBros",Giallo
+https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6e9f36017614990b8edbbbb9229c9ad:1a9054595bcaa6a03fad5a4253b726
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/2f78c4f25935af6c09c195014ccd97c1d70169b2f3388e59caef915cfa0bb8e0/68747470733a2f2f692e696d6775722e636f6d2f30504952775a532e706e67" group-title="WarnerBros",Giallo (TIMVISION)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(giallo)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/f0f2cc8d80ba2f31dfa3654de85fb0f54200730cc4e28f96fd6c8f49d53a1c9e/68747470733a2f2f692e696d6775722e636f6d2f477a73506c62582e706e67" group-title="SuperTennix",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/1920px-Motor_Trend_logo.svg.png" group-title="Samsung",Motor Trend
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/460755c9492e8a9acec4e822200c9b554cc8cd35b74134392366cc08cf49fd41/68747470733a2f2f692e696d6775722e636f6d2f6f495746634f432e706e67" group-title="WarnerBros",Warner TV
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f","a872cd3f7e1bfe33e453eb93945b1956":"cab9fd39a69a09155c22c4608807848b"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Prime_Video_logo_%282022%29.svg/1920px-Amazon_Prime_Video_logo_%282022%29.svg.png" group-title="Amazon",Prime Video Live
+https://abfwwl4aaaaaaaamnw5vhvz7v4fk7.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/euzcbnous0/out/v1/c42561eb41a74e2e80a454b45a16bb95/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"8ab47741930c476780515f9a00decb0a":"7ab4b9ae5a48aa526e511a913b832769"}
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/dazn1.png" group-title="DAZN",Dazn 1
+https://dce-de-livedazn.daznedge.net/dash/dazn-linear-024/stream.mpd?p=web
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003610b8556000936e48061cdb4ee11a:2cd6bcc2160aa6ec048e5a5f7a0f73c8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sky_Uno_-_Logo_2021.svg/1920px-Sky_Uno_-_Logo_2021.svg.png" group-title="Sky",Sky Uno
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/32477/FHD/skyuno/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036d37875a7307fd4551bcd6e466882:a8cdc74a5d05c7a45c551af45aa5549c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sky_Atlantic_-_Logo_2020.svg/1920px-Sky_Atlantic_-_Logo_2020.svg.png" group-title="Sky", Sky Atlantic
+https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31226/FHD/skyatlantic/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00366cd68acfb019e5d302f452c96ed7:fbb59d554722277be85b0728c13051ab
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/1920px-Sky_Serie.svg.png" group-title="Sky", Sky Serie HD
+https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31684/FHD/skyserie/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003689703a245806508e9d332ed323ee:ef229589d2f7afa40904b6d62c852acf
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Sky_Investigation.svg.png" group-title="Sky", Sky Investigation HD
+https://linear315-it-dash1-prd.selector.skycdn.it/016a/32686/FHD/skyinvestigation/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sky_Documentaries.svg/1920px-Sky_Documentaries.svg.png" group-title="Sky", Sky Documentaries
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036de0a1c44a2c972fcf64c9b7f4302:0ade9234f6c56636ad6bb1b3560ddb31
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/31697/FHD/skydocumentaries/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sky_Nature.svg/1920px-Sky_Nature.svg.png" group-title="Sky", Sky Nature HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036dd4a767d1d1e6faa72be9b2edde3:60250673f0f5c54deac7c8f6d883c329
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/32695/FHD/skynature/master.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/1280px-Sky_Arte_-_Logo_2018.png" group-title="Sky", Sky Arte
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036798d4dc4ce189b2f029a4b4aa06c:4f668ba0ef796d807c90613b9e2e61bf
+https://linear313-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32074/FHD/skyarte/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/1920px-Sky_Cinema_Uno_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Uno
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036211ccb7bd9cfd99fb8591e67d772:a10923293396f30380ce411a3504ddc3
+https://linear314-it-dash1-prd.selector.skycdn.it/016a/32202/FHD/cinemauno/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sky_Cinema_Comedy_-_Logo_2021.svg/1920px-Sky_Cinema_Comedy_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003638a93ac06c9df7de5d8f349f56fd:45c7c2ba5a3cdfd03e90ff16e6ac15d8
+https://linear303-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32030/FHD/cinemacomedy/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/1920px-Sky_Cinema_Action_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00368fc53eab9498463dadfc60e0f818:0a70fe8d3b90360035982deaa8c83a6d
+https://linear306-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31206/FHD/cinemaaction/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/1920px-Sky_Cinema_Due_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Due
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003629d4c6efbd39a2808a85a286b783:41c463cc4bf6da4dec7935eb01a7155e
+https://linear308-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32564/FHD/cinemadue/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/1920px-Sky_Cinema_Collection_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Collection
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=003699aeb8e998fe0afed0c7302ce51f:4583daf5ec387c310633cdc922dd3130
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31204/FHD/cinemacollection/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/1920px-Sky_Cinema_Family_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036012604394c43b063c4f513ee431d:2c665092aa45cbae824bf7ad4e69d767
+https://linear305-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31255/FHD/cinemafamily/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Cinema_Suspense_-_Logo_2021.svg/1920px-Sky_Cinema_Suspense_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Suspense
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00365eb692a3fd6907192a4a3f0958b2:9f86ea0417e3458186f8ada1a2003fa5
+https://linear307-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32047/FHD/cinemasuspense/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Cinema_Romance_-_Logo_2021.svg/1920px-Sky_Cinema_Romance_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Romance
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00362d0a5efbd10ab56a3f502f2be023:61c8c429f412ea52e06d9663c48ee9b7
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/32231/FHD/cinemaromance/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sky_Cinema_Drama_-_Logo_2021.svg/1920px-Sky_Cinema_Drama_-_Logo_2021.svg.png" group-title="Sky", Sky Cinema Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036a5270d8f1d1a2f573864aed26225:df0e826d2eeb78051f5dcf6f166e6056
+https://linear304-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31769/FHD/cinemadrama/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=003663ddf1acb25ea88a7cf973afc0d5:35ea91b4151d6975007998c328daee6c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/1920px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="Sky", Sky Sport  24
+https://linear303-it-dash1-prd.selector.skycdn.it/016a/31035/FHD/skysport24/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036dc70e4d659fe5ae57b52793a1ff3:55517f806b6be917c2bf0e9cf9acc44f
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sky_Sport_Uno_-_Logo_2020.svg/1920px-Sky_Sport_Uno_-_Logo_2020.svg.png" group-title="Sky", Sky Sport Uno
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00369a2c69176d5a2deff777247b6637:e122d4bad34c1e430ee349f5aac0060b
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Sky_Sport_Calcio.svg/1920px-Sky_Sport_Calcio.svg.png" group-title="Sky", Sky Sport Calcio
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31209/FHD/skysportseriea/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036fb7c564c4eb99e310f5fa82ab2f2:647f07b6858a669456e73ca103b4c2c0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1920px-Sky_Sport_Tennis.svg.png" group-title="Sky", Sky Sport Tennis
+https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00368f2bf10736c9c2c02ab0fa694d00:92eec9d841ac0c1ff16b90a0db82c792
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1920px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="Sky", Sky Sport Arena
+https://linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0036a02f08506f8428164d78e3ebb6de":"8708612971e3cfa8e03698996b1a3b7f"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1920px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="Sky", Sky Sport Golf
+https://linear309-it-dash1-prd.selector.skycdn.it/016a/32768/FHD/skysportgolf/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1920px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sky", Sky Sport F1
+https://linear307-it-dash1-prd.selector.skycdn.it/016a/31478/FHD/skysportf1/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362e9181eaa0c5f91761ade3515eb8:52cf3c27885d58ad76aaf36d4217a984
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sky_Sport_MotoGP_-_Logo_2020.svg/1920px-Sky_Sport_MotoGP_-_Logo_2020.svg.png" group-title="Sky", Sky Sport MotoGP
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ADbE5FOuKgRPTIYe1ztWCg","k":"6lYmwKoJLDgspYFRtfSyCA"}]}
+#EXTINF:-1 tvg-logo="https://skymedia.it/wp-content/uploads/2020/09/Sky_Sport_NBA_PRIMARY_RGB.png" group-title="Sky", Sky Sport NBA
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31764/FHD/skysportnba/master_stereo.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036422cf4293ae7cf1e7f7062cc29e8:37a223fcc17c087043bc837432fd25d8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1920px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sky", Sky Sport 251
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=003643bc9d61268c987504fa93b397f6:b8d5767c73ff8bba68d955035b56f4c1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1920px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sky", Sky Sport 252
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32951/FHD/skysport252/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036077996d02761a9d4c29ddfac7466:e83d078779ae5b53e2eb999513d55682
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1920px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sky", Sky Sport 253
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32233/FHD/skysport253/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ADacFMILeKrbHsDjwOdJeQ","k":"52h2fixyONgGmIe7Nq7X-g"}]}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1920px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sky", Sky Sport 254
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31234/FHD/skysport254/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ADa3gaIuuwwgwWrCfV0USA","k":"8wm5Ss_acgvx7VdBSJ-JZw"}]}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1920px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sky", Sky Sport 255
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/32910/FHD/skysport255/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"ADZvJjhZ_BzILSxNpqZu9g","k":"dUrpItETxUNJACzZqIaUpA"}]}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1920px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sky", Sky Sport 256
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/31912/FHD/skysport256/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0036faeace9872d3ceeb8b1b63f0baa3":"dbd41ee944243307d39b7b27f16615a8"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1920px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sky", Sky Sport 257
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31775/FHD/skysport257/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0036fd8ccfddba47c8b40aeff63a797c":"dfd5c9d0f4ac6f3a1bd89803399e7026"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1920px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sky", Sky Sport 258
+https://linear312-it-dash1-prd.selector.skycdn.it/016a/32772/skysport258/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0036644f7699f43e401f88d920dc385c":"e5b0cebdc3edd7996d283041535fce9c"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sky_Sport_-_Logo_2020.svg/1920px-Sky_Sport_-_Logo_2020.svg.png" group-title="Sky", Sky Sport 259
+https://linear311-it-dash1-prd.selector.skycdn.it/016a/31613/skysport259/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"003680814e257d49ee8cc69624115358":"75ed6394c2b9fa771843c4055881b5d3"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Sky",Cartoon Network
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31258/FHD/cartoonnetwork/master_stereo.mpd
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/RDS-Logo.png" group-title="Rds",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1920px-Rai_Gulp_-_Logo_2017.svg.png" group-title="Rai",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/1920px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="Rai",Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/82c4253dfd363d4f00f637302ac58c112c9703a864c19207849c704aedbab039/68747470733a2f2f692e696d6775722e636f6d2f4341783779526d2e706e67" group-title="Rai",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/b570623c1ab345aa645e2b26e49449f61f2a39d9063c5287721594c9d1e71ddb/68747470733a2f2f692e696d6775722e636f6d2f7a4130505463732e706e67" group-title="Rai",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/f6cd19d8a5d100d0df6c69f06fd04159d6fb9d0e33b4ac1b030614bb18524220/68747470733a2f2f692e696d6775722e636f6d2f396b75514349692e706e67" group-title="Rai",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/23a33b063233be968c75c8359035204982ea6978122b8459c7938b0f407789ea/68747470733a2f2f692e696d6775722e636f6d2f47577832466b6c2e706e67" group-title="Mediaset",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Canale_5_-_2018_logo.svg.png" group-title="Mediaset",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/de0eb35d371297b198448e042688f01fd8c0ab1bf15563a846f8b8d60223002d/68747470733a2f2f692e696d6775722e636f6d2f6f43694f7842472e706e67" group-title="Mediaset",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/130px-LA7_-_Logo_2011.svg.png" group-title="CloudFront", La7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepe/iptv/blob/main/TV8_Logo_2016.svg.png?raw=true" group-title="HLSlive",TV8 (Sky)
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://github.com/GabrielePepe/iptv/blob/main/TV8_Logo_2016.svg.png?raw=true" group-title="HLSlive",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3cfe544523a4a2a8c890d3319436a07:64d25e3ff3c2a1abd3334da392b52ffa
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/7e02159115257d86a66b8bdfa68cba253579e67a176fb61e19a87b04f7f9d06e/68747470733a2f2f692e696d6775722e636f6d2f487037323352552e706e67" group-title="Amagi",Nove (TIMVISION)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(novehd)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/7e02159115257d86a66b8bdfa68cba253579e67a176fb61e19a87b04f7f9d06e/68747470733a2f2f692e696d6775722e636f6d2f487037323352552e706e67" group-title="Amagi",Nove
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/20_Mediaset_-_Logo_2018.svg.png" group-title="Mediaset",20 Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/be017823aaffd750d2455f79f944bcc20ad5abc6f9af593b6d3f25d87043705e/68747470733a2f2f692e696d6775722e636f6d2f58466b5a5266762e706e67" group-title="Rai",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Iris_logo_2007.svg.png" group-title="Mediaset",IRIS
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/91aea36d0bcb48dd6816b725475a1059592fcc46c0a9154516b95a2857468981/68747470733a2f2f692e696d6775722e636f6d2f4c6575327a544f2e706e67" group-title="Rai",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/2594c7490d102aa0354d6d8abf435705ebde7795f593b1e92ff44ca95abf269f/68747470733a2f2f692e696d6775722e636f6d2f524b704f3843452e706e67" group-title="Rai",Rai movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/1920px-Rai_Scuola_-_Logo_2017.svg.png" group-title="Rai",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rai_News_-_Logo_2021.svg/1920px-Rai_News_-_Logo_2021.svg.png" group-title="Rai",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Rai_Premium_-_Logo_2017.svg.png" group-title="Rai",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletvù
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/fe55f6f01f522ad2a8433503d4ca63cac12e542da1f1f7c49ceccf5c949c7d59/68747470733a2f2f692e696d6775722e636f6d2f63506c754630332e706e67" group-title="Mediaset",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LA7d_%282024%29.svg/130px-LA7d_%282024%29.svg.png" group-title="CloudFront",La7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/488442cd622ead666a5a2fd90e545b4ef504a59d74b1afba7d4cc1c261c2110c/68747470733a2f2f692e696d6775722e636f6d2f554e794a61686f2e706e67" group-title="Mediaset",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"33563cf4eea14a7696fa246d2217157a":"a34383e885071ceff10723a455ff4dbd"}
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/92ae12c2be43d6aef5dac2884bf5b7c9290f344a175959bbe5fda1167b32773d/68747470733a2f2f692e696d6775722e636f6d2f6936304f5972392e706e67" group-title="Samsung",Food Network (TIMVISION)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(foodnetworkhd)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/92ae12c2be43d6aef5dac2884bf5b7c9290f344a175959bbe5fda1167b32773d/68747470733a2f2f692e696d6775722e636f6d2f6936304f5972392e706e67" group-title="Samsung",Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/5bccedb0c2933af6faeef030a825f60f636d62de573ce9bbca8644b336f7cd3b/68747470733a2f2f692e696d6775722e636f6d2f4d34736d7170462e706e67" group-title="Mediaset",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/135d345edeb6ac218d5559005a8527b8b17480a4e3abf7cf5fed769b017f2ce8/68747470733a2f2f692e696d6775722e636f6d2f6e69536c7271542e706e67" group-title="Mediaset",Boing
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/a6921c032a9d77948937c792c9aafbeac3b37cc04289a1b3861cbf12a4e77656/68747470733a2f2f692e696d6775722e636f6d2f776c4c675369412e706e67" group-title="Samsung",K2
+https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/09354ce4327b5d7b946ec27ce2b2e37e22b049bb72c6aab645409d3cbd55aee1/68747470733a2f2f692e696d6775722e636f6d2f7a7163305472592e706e67" group-title="Mediaset",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/bcdd3af8c222e2790e41f05201132053b8d9c8cc0f4a429a251e3238b8cb058a/68747470733a2f2f692e696d6775722e636f6d2f7a4442794f776f2e706e67" group-title="Vimnitaly",Super!
+https://streamcdng15-495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/afa49ce61fd4a8ea8a898a2cba947436a167f27fb005f5cebe19a35369125475/68747470733a2f2f692e696d6775722e636f6d2f786175745644382e706e67" group-title="Mediaset",TGCOM 24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/5777317477fde080879b1dabc2747252cccfa84a2881cd002035d61fb81c3ab1/68747470733a2f2f692e696d6775722e636f6d2f4b3879357138782e706e67" group-title="Rai",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Mediaset_Extra_logo.svg.png" group-title="Mediaset",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/b37818504d0dc78168a879018b1315696e09fa044c45d020c5177312c2fe3ddd/68747470733a2f2f692e696d6775722e636f6d2f7873476c6a73622e706e67" group-title="Rai",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/6cb95a7eabcbc745d224f445610a0c97eb56120d4bb96ca5bcc7dd40e9e0d6d8/68747470733a2f2f692e696d6775722e636f6d2f687535365961352e706e67" group-title="Solo",SoloCalcio
+https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/6197F24C2DDD359567D902082C9347C25BC98852/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/1024px-Twentyseven_logo.svg.png" group-title="Mediaset",27 Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/da3e7db6fcdd2e66768d0c5308980ada3ca639e797a5d8fa578cf8db9c84b16e/68747470733a2f2f692e696d6775722e636f6d2f783752614b33612e706e67" group-title="Akamaized",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/1024px-QVC_Logo.svg.png" group-title="Akamaized", QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1itcln/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a1dd735758c436e85dd97834a0f38eb:3d4f6424ccf3458cea323b79eee97524
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/cb7bb58db478b87a1360e99485456eeb616aa71138170a237adaf8f413ae55f1/68747470733a2f2f692e696d6775722e636f6d2f396463545967312e706e67" group-title="Samsung",Real Time (TIMVISION)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(realtimehd)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/cb7bb58db478b87a1360e99485456eeb616aa71138170a237adaf8f413ae55f1/68747470733a2f2f692e696d6775722e636f6d2f396463545967312e706e67" group-title="Samsung",Real Time
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1177959b3f004d2b8ed7bd4d8d27d748:a5e7d11503583b23e8d6c89ac73ef4
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/0a52abecca59e631dbdcde8689c695e3919d2987f14c95e179bbd1b592b36b0a/68747470733a2f2f692e696d6775722e636f6d2f646d456d5258372e706e67" group-title="Samsung",DMAX (TIMVISION)
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(dmaxhd)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/0a52abecca59e631dbdcde8689c695e3919d2987f14c95e179bbd1b592b36b0a/68747470733a2f2f692e696d6775722e636f6d2f646d456d5258372e706e67" group-title="Samsung",DMAX
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/8b6a69aca7dd67892671a5c0981ce57451e20417310752fb7cc2f120a9111d6f/68747470733a2f2f692e696d6775722e636f6d2f61584155794c4e2e706e67" group-title="Gruppo Sciscione",Travel TV
+https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/60eaa6dd1fafcb6cce09f463540041ddef0d894ce26f8ea97b60f1b604a1398e/68747470733a2f2f692e696d6775722e636f6d2f41613141626d652e706e67" group-title="Gruppo Sciscione",Donna TV
+https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Untitled(1).png" group-title="Tring",Tring Sport 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e950d8992cfa4e94853b13dfd13e214c":"0bbd6f3883b78fb5fdbbad3ca989634d","7764c6873e38489d9058de6f43088ec7":"0b00fbe5c5d266bf3e7acf99b9508165"}
+https://tringcatch.s.llnwi.net/dash/CH_Sport1/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Untitled(1).png" group-title="Tring",Tring Sport 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e6bc43f5af504fde92582ee33a6396ac":"e7ab22f56debf4605e7f811f93825fb4","d162895420194ccfbf3655c2a9f8761e":"8f62da9b0ca5697d5058346bf56daa11"}
+https://tringcatch.s.llnwi.net/dash/CH_Sport2/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Untitled(1).png" group-title="Tring",Tring Sport 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"84fa1d51977949ae84139e615206b1e2":"fa8dec5cadd468ecc76ea11f75b0e10b","e601155c239a4c1eaffa55cd26551d5d":"f5aac7ec60c9e5c0fc10ec6599842e5d"}
+https://tring.s.llnwi.net/delta/102/out/u/sporttreottencryption.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Untitled(1).png" group-title="Tring",Tring Sport 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5d52eb6eef80433fac60fc99255ddc0b":"95f3325b3d828312cdc510f30a280af8","9384d63d83194230b62bd5ab088626ce":"4f2783df34a16f13ba2a074f0062cf29"}
+https://tring.s.llnwi.net/delta/101/out/u/tringsport4ottencryption.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Untitled(1).png" group-title="Tring",Tring Sport 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0c3cb52919674bc7a1b4f047a04241dc":"9efdecc6df1b8be1dea3e301a10d8ed4","30572373426048ed9ac8ca578d05dbdf":"142dd0c2e94c4a8be512c51e0d95f962"}
+https://tring.s.llnwi.net/delta/102/out/u/tringSport5105.mpd
+
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/10/Aci-Automobile-Club-dItalia-Logo-Vector.svg-.png" group-title="Multistream",Aci Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9034d7eed1b54bb084d5cc63c6b48106:3ed517e2218816c24285b2a53c27820e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Home_%26_Garden_Television_original_logo.svg/1280px-Home_%26_Garden_Television_original_logo.svg.png",HGTV-Home&Garden TV
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(hgtvhd)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Sky_Crime_DE_Logo_2021.svg.png" group-title="Sky",Sky Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036de91177ccee5fdfd4929c099854f:f40263272212aacdcf7e405cfb4b4a91
+https://linear315-it-dash1-prd.selector.skycdn.it/016a/32249/FHD/skycrime/master.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Comedy_Central_2018.svg.png" group-title="Sky",Comedy Central
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0036f3ec4ac7d836b5bf9fa79f3041b6:c02271563d97b1e7e755484279f2b55c
+https://linear309-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32404/comedycentral/master.mpd
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/RTSH-sport.png/revision/latest?cb=20161122200203" group-title="Delta",RTSH Sport
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"87c154e8e6934177b428a2a0fa5ac800":"2c036503c395aa3046956bd1eafe21e1","faad00102fbe44b39dd1c630aebf6500":"bdd28f4dc9f55f73fda58d80b1a35548"}
+https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png" group-title"Sky",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036de74cba13152fec26c1545e321bc:7d621370036995afab0e864f204aec81
+https://linear314-it-dash1-prd.selector.skycdn.it/016a/31320/nickelodeon/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Nick-Jr-old-logo.png" group-title"Sky",Nick Jr.
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00363c7796c4131c137a18be6306015f:374da626490533654bc6750bec6d6aa3
+https://linear314-it-dash1-prd.selector.skycdn.it/016a/32424/nickj/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title"Sky",Boomerang
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036e04aa472587879b346dde1835ceb:acb086af654aafcd30423b6c70da9c69
+https://linear314-it-dash1-prd.selector.skycdn.it/016a/31367/boomerang/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/8/82/DeA_Kids_-_Logo_2022.svg/1200px-DeA_Kids_-_Logo_2022.svg.png" group-title"Sky",DeA Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036a24c5461c0fc2fb478b21256ada7:d182a15b72bd8d0cabfb87471fbe2d0d
+https://linear314-it-dash1-prd.selector.skycdn.it/016a/32460/deakids/master.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cine34_logo.svg/1024px-Cine34_logo.svg.png" group-title"Mediaset",Cine34
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/1024px-RTL_102.5_logo.svg.png" group-title"Rtl",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/RTL_102.5_logo.svg/1024px-RTL_102.5_logo.svg.png" group-title"Rtl",RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"525a9da2120045a6973709dbcd685609":"d8a7578d81ce754755a503ad8ac98ec0"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title"Sport",Eleven Sports 1 (PL)
+http://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2cd12eaca5c14b30a3280b1a89484809":"e2c14f6cc245c1a5ebbce8c8c704fc6c"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title"Sport",Eleven Sports 2 (PL)
+http://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"e006dab396714c0b9dd6228255c1b709":"2cdf44e960bbc4d276968012fe659272"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title"Sport",Eleven Sports 3 (PL)
+http://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3e943ad288964c77917cc654fc60d109":"18cf07106507f411210c4a26d901a9e4"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title"Sport",Eleven Sports 4 (PL)
+http://cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1920px-MTV_2021_%28brand_version%29.svg.png" group-title"Sky",MTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00364d417e7aab8e6a92c963f2d24549:a875a90e31b98eab8430e894ee5a853e
+https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32763/FHD/mtvnext/master_sd.mpd
