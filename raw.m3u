@@ -602,5 +602,5 @@ http://cdn-s-lb2.pluscdn.pl/ch/1457740/146/dash/e653c27f/live.mpd
 #KODIPROP:inputstream.adaptive.license_key=00364d417e7aab8e6a92c963f2d24549:a875a90e31b98eab8430e894ee5a853e
 https://linear315-it-dash1-prd-akp2.cdn13.skycdp.com/016a/32763/FHD/mtvnext/master_sd.mpd
 
-#EXTINF:-1 tvg-chno="700" tvg-name="Super! iCarly" tvg-logo="https://i.imgur.com/IWcQfF2.png" tvg-id="609401db8cf51c00084b592e" group-title="Pluto TV Italia",Super! iCarly
+#EXTINF:-1 tvg-chno="700" tvg-name="Super! iCarly" tvg-logo="https://i.imgur.com/IWcQfF2.png" tvg-id="609401db8cf51c00084b592e" group-title="Pluto TV Italia",Pluto.TV On Demand - Super! iCarly
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
