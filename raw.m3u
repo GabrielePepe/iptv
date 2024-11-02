@@ -150,9 +150,9 @@ https://linear310-it-dash1-prd.selector.skycdn.it/016a/32559/FHD/skysporttennis/
 https://linear304-it-dash1-prd.selector.skycdn.it/016a/31024/FHD/skysportarena/master_stereo.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0036a02f08506f8428164d78e3ebb6de":"8708612971e3cfa8e03698996b1a3b7f"}
+#KODIPROP:inputstream.adaptive.license_key=00360b7729f74bf56a0a4eb0eda15ec5:f8a5f4723c71ac84c2f1ff6f55939a63
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1920px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="Sky", Sky Sport Golf
-https://linear309-it-dash1-prd.selector.skycdn.it/016a/32768/FHD/skysportgolf/master_stereo.mpd
+https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/32768/FHD/skysportgolf/master_dolby.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036a96b6bbbf1828488f90e6b2ca1f4:d24e6ae926e88f8303b6926271ff8155
