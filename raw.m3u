@@ -607,3 +607,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5c664
 
 #EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="ZONA DAZN" tvg-logo="https://raw.githubusercontent.com/LelieL91/IPTV-Italy-Logos/refs/heads/main/logos/220x132/1_0_19_321_107_217C_EEEE0000_0_0_0.png" group-title="DAZN",Zona DAZN
 http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/142
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 2" tvg-logo="https://raw.githubusercontent.com/LelieL91/IPTV-Italy-Logos/refs/heads/main/logos/220x132/1_0_19_321_107_217C_EEEE0000_0_0_0.png" group-title="DAZN",DAZN 2
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/15474
