@@ -610,3 +610,104 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a0
 
 #EXTINF:-1 tvg-chno="405" tvg-name="Affare Fatto" tvg-logo="https://images.pluto.tv/channels/64ec5c6644fe100009d114ae/colorLogoPNG.png" tvg-id="64ec5c6644fe100009d114ae" group-title="Pluto TV Italia",Pluto.TV On Demand - Affare Fatto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5c6644fe100009d114ae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="ZONA DAZN" tvg-logo="http://tmdb24.artemis74.biz:80/images/8f5098af5c4d7fc12de5a334529d384d.jpg" group-title="DAZN",ZONA DAZN
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/142
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 1" tvg-logo="http://tmdb24.artemis74.biz:80/images/b7d561c13508894c3f65364bbd44b91b.jpg" group-title="DAZN",DAZN CALCIO 1
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/145
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 2" tvg-logo="http://aztechi.anubi-artemis.com:80/images/64837201c87da04f89419ce68bddd367.jpg" group-title="DAZN",DAZN CALCIO 2
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/15474
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 3" tvg-logo="http://nepthis.artemis24.xyz:80/images/5aaa82e27d6bb090baf3663ae97cb026.jpg" group-title="DAZN",DAZN CALCIO 3
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/147
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 4" tvg-logo="http://aztechi.anubi-artemis.com:80/images/f18de70929a5eaba704e11f26a770b03.jpg" group-title="DAZN",DAZN CALCIO 4
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/15475
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 5" tvg-logo="http://nepthis.artemis24.xyz:80/images/62cbd118f9e80d3201e4f12d3d871943.jpg" group-title="DAZN",DAZN CALCIO 5
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/149
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 6" tvg-logo="http://nepthis.artemis24.xyz:80/images/d3665580756e4192eff5a0c4b2ee0817.jpg" group-title="DAZN",DAZN CALCIO 6
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/150
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 7" tvg-logo="http://nepthis.artemis24.xyz:80/images/d28c0c0e5ca718e21551133c2eede953.jpg" group-title="DAZN",DAZN CALCIO 7
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/151
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 8" tvg-logo="http://nepthis.artemis24.xyz:80/images/c67d04def739309d515854f963df56c4.jpg" group-title="DAZN",DAZN CALCIO 8
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/152
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 9" tvg-logo="http://nepthis.artemis24.xyz:80/images/56c185df29795f539c6e6e9ef28b31c0.jpg" group-title="DAZN",DAZN CALCIO 9
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37162
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 10" tvg-logo="https://i.ibb.co/s125Tc2/dazn-10.jpg" group-title="DAZN",DAZN CALCIO 10
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37163
+#EXTINF:-1 tvg-id="" tvg-name="ZONA DAZN SD" tvg-logo="http://aztechi.anubi-artemis.com:80/images/8f5098af5c4d7fc12de5a334529d384d.jpg" group-title="DAZN in SD",ZONA DAZN SD
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37164
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 1 SD" tvg-logo="http://aztechi.anubi-artemis.com:80/images/b7d561c13508894c3f65364bbd44b91b.jpg" group-title="DAZN in SD",DAZN CALCIO 1 SD
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37165
+#EXTINF:-1 tvg-id="" tvg-name="DIRETTA GOL SERIE B" tvg-logo="http://nepthis.artemis24.xyz:80/images/8d3272d559baba71993f69688c975298.jpg" group-title="SERIE B",DIRETTA GOL SERIE B
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37166
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE B 1 " tvg-logo="http://nepthis.artemis24.xyz:80/images/7ab3eff022b6c6dca20dff5a76e32884.jpg" group-title="SERIE B",DAZN SERIE B 1 
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37167
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE B 2" tvg-logo="http://nepthis.artemis24.xyz:80/images/6752bf5e082c84834c43a61696a8eb76.jpg" group-title="SERIE B",DAZN SERIE B 2
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37168
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE B 3" tvg-logo="http://nepthis.artemis24.xyz:80/images/562f08c91a9fe62d631698a38eb6ca41.jpg" group-title="SERIE B",DAZN SERIE B 3
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37169
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE B 4" tvg-logo="http://nepthis.artemis24.xyz:80/images/c768ee445dd15731306e71f04b160f1f.jpg" group-title="SERIE B",DAZN SERIE B 4
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37170
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE B 5" tvg-logo="http://nepthis.artemis24.xyz:80/images/65da132112f62124819db41c2faac4e4.jpg" group-title="SERIE B",DAZN SERIE B 5
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37425
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE B 6" tvg-logo="http://nepthis.artemis24.xyz:80/images/d7cfc63dbc4e560287cd2c7ede9556fb.jpg" group-title="SERIE B",DAZN SERIE B 6
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37426
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE B 7" tvg-logo="http://nepthis.artemis24.xyz:80/images/7e775bf10bb45d68b921835cdbbc79b5.jpg" group-title="SERIE B",DAZN SERIE B 7
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37427
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE B 8" tvg-logo="http://nepthis.artemis24.xyz:80/images/2263467577372d5317f81f6a523a560b.jpg" group-title="SERIE B",DAZN SERIE B 8
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37428
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE B 9" tvg-logo="http://nepthis.artemis24.xyz:80/images/8409d67e82313787659b6b3954381495.jpg" group-title="SERIE B",DAZN SERIE B 9
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37429
+#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE B 10" tvg-logo="http://nepthis.artemis24.xyz:80/images/fc5f3920289ce861f0e96e438af253fc.jpg" group-title="SERIE B",DAZN SERIE B 10
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/37430
+#EXTINF:-1 tvg-id="" tvg-name="==== Dazn Vetrina ====" tvg-logo="http://aztechi.anubi-artemis.com:80/images/5635b65f12bce22cb961ac354648fc10.png" group-title="DAZN",==== Dazn Vetrina ====
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/140
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 2 SD " tvg-logo="http://aztechi.anubi-artemis.com:80/images/05d68eafaa7f60303d0a3d91895ab58a.jpg" group-title="DAZN in SD",DAZN CALCIO 2 SD 
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/38796
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 3 SD " tvg-logo="https://i.postimg.cc/T3L3sdTY/daznsd3.jpg" group-title="DAZN in SD",DAZN CALCIO 3 SD 
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/38797
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 4 SD" tvg-logo="https://i.postimg.cc/BQwvNL9V/daznsd4.jpg" group-title="DAZN in SD",DAZN CALCIO 4 SD
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/38798
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 5 SD" tvg-logo="https://i.postimg.cc/zfh3yJQP/daznsd5.jpg" group-title="DAZN in SD",DAZN CALCIO 5 SD
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/38799
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 6 SD" tvg-logo="http://aztechi.anubi-artemis.com:80/images/21c08c3df184434b21c61e35bd6788b6.jpg" group-title="DAZN in SD",DAZN CALCIO 6 SD
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/38800
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 7 SD" tvg-logo="http://tmdb24.artemis74.biz:80/images/1541986ea5116eb08b322ed71dd8470b.jpg" group-title="DAZN in SD",DAZN CALCIO 7 SD
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/38801
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 8 SD" tvg-logo="http://aztechi.anubi-artemis.com:80/images/a3d76da0794efdb62fa367cda3effb41.jpg" group-title="DAZN in SD",DAZN CALCIO 8 SD
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/38802
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 9 SD" tvg-logo="https://i.postimg.cc/6567Mx7y/daznsd9.jpg" group-title="DAZN in SD",DAZN CALCIO 9 SD
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/38803
+#EXTINF:-1 tvg-id="" tvg-name="DAZN CALCIO 10 SD" tvg-logo="http://aztechi.anubi-artemis.com:80/images/015116a9804269e9370bfd7b0534b906.jpg" group-title="DAZN in SD",DAZN CALCIO 10 SD
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/38804
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Basket Serie A 1" tvg-logo="" group-title="Dazn Basket",Dazn Basket Serie A 1
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40217
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Basket Serie A 2" tvg-logo="" group-title="Dazn Basket",Dazn Basket Serie A 2
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40218
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Basket Serie A 3" tvg-logo="" group-title="Dazn Basket",Dazn Basket Serie A 3
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40219
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Basket Serie A 4" tvg-logo="" group-title="Dazn Basket",Dazn Basket Serie A 4
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40220
+#EXTINF:-1 tvg-id="" tvg-name="Dazn Basket Serie A 5" tvg-logo="" group-title="Dazn Basket",Dazn Basket Serie A 5
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40221
+#EXTINF:-1 tvg-id="" tvg-name="Dazn BASKET Eurocup 2" tvg-logo="" group-title="Dazn Basket",Dazn BASKET Eurocup 2
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40223
+#EXTINF:-1 tvg-id="" tvg-name="Dazn BASKET Eurocup 3" tvg-logo="" group-title="Dazn Basket",Dazn BASKET Eurocup 3
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40224
+#EXTINF:-1 tvg-id="" tvg-name="Dazn BASKET Eurocup 4" tvg-logo="" group-title="Dazn Basket",Dazn BASKET Eurocup 4
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40225
+#EXTINF:-1 tvg-id="" tvg-name="Dazn BASKET Eurocup 5" tvg-logo="" group-title="Dazn Basket",Dazn BASKET Eurocup 5
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40226
+#EXTINF:-1 tvg-id="" tvg-name="Dazn BASKET EuroLeague 1" tvg-logo="" group-title="Dazn Basket",Dazn BASKET EuroLeague 1
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40227
+#EXTINF:-1 tvg-id="" tvg-name="Dazn BASKET EuroLeague 2" tvg-logo="" group-title="Dazn Basket",Dazn BASKET EuroLeague 2
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40228
+#EXTINF:-1 tvg-id="" tvg-name="Dazn BASKET EuroLeague 3" tvg-logo="" group-title="Dazn Basket",Dazn BASKET EuroLeague 3
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40229
+#EXTINF:-1 tvg-id="" tvg-name="Dazn BASKET EuroLeague 4" tvg-logo="" group-title="Dazn Basket",Dazn BASKET EuroLeague 4
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40230
+#EXTINF:-1 tvg-id="" tvg-name="Dazn BASKET EuroLeague 5" tvg-logo="" group-title="Dazn Basket",Dazn BASKET EuroLeague 5
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40231
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="DAZN FORMULA 1" tvg-logo="http://nepthis.artemis24.xyz:80/images/16d4f83743ebf2d93ba3cf3ad0fbc7f3.jpg" group-title="SKY SPORT",DAZN FORMULA 1
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/98
+#EXTINF:-1 tvg-id="" tvg-name="Dazn BASKET Eurocup 1" tvg-logo="" group-title="Dazn Basket",Dazn BASKET Eurocup 1
+http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/40222
