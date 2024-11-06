@@ -605,5 +605,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e4507a0
 #EXTINF:-1 tvg-chno="405" tvg-name="Affare Fatto" tvg-logo="https://images.pluto.tv/channels/64ec5c6644fe100009d114ae/colorLogoPNG.png" tvg-id="64ec5c6644fe100009d114ae" group-title="Pluto TV Italia",Pluto.TV On Demand - Affare Fatto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5c6644fe100009d114ae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="ZONA DAZN" tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/dazn1.png" group-title="DAZN",Dazn 1
+#EXTINF:-1 tvg-id="DAZNZona.it" tvg-name="ZONA DAZN" tvg-logo="https://raw.githubusercontent.com/LelieL91/IPTV-Italy-Logos/refs/heads/main/logos/220x132/1_0_19_321_107_217C_EEEE0000_0_0_0.png" group-title="DAZN",Zona DAZN
 http://nut.artemis24.xyz:80/fioresarno/YWYkPmJgk6kU/142
