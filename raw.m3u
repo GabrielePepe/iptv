@@ -526,6 +526,11 @@ https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(hgtvhd)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0036de91177ccee5fdfd4929c099854f:f40263272212aacdcf7e405cfb4b4a91
 https://linear315-it-dash1-prd.selector.skycdn.it/016a/32249/FHD/skycrime/master.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Sky_History_Logo_2020.png" group-title="Sky",Sky History Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=00362ec3497a383021f1db77c8556614:8820fb9b2afd6e1a3f4f5ab1ba4a73ad
+https://linear313-it-dash1-prd.selector.skycdn.it/016a/31513/FHD/history/master.mpd
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/GabrielePepe/iptv/refs/heads/main/Comedy_Central_2018.svg.png" group-title="Sky",Comedy Central
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0036f3ec4ac7d836b5bf9fa79f3041b6:c02271563d97b1e7e755484279f2b55c
@@ -609,4 +614,4 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5c664
 #KODIPROP:inputstream.adaptive.license_key={"8ab47741930c476780515f9a00decb0a":"7ab4b9ae5a48aa526e511a913b832769"}
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.128 Safari/537.36 WebAppManager
 #EXTINF:-1,Dazn 1
-https://dce-de-livedazn.daznedge.net/dash/dazn-linear-024/stream.mpd?p=
+https://dce-de-livedazn.daznedge.net/dash/dazn-linear-024/stream.mpd?p=web
